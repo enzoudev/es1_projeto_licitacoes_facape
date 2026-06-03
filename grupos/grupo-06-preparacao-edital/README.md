@@ -45,7 +45,7 @@ Formatação do TR e Mapa de Risco em documento oficial (edital) e envio para a 
 
 > Preencha esta seção ao finalizar:
 
-- **Integrantes:**
+- **Integrantes: Enzo Gabriel Lima Nunes, João Victor da Silva Costa Vasconcelos, Victor Emmanuel Silva Ramos, Juliardo Mateus Brito de Sa Junior, Gustavo de Souza Mendonça**
 - **Data de entrega:**
 - **Branch/PR:**
 
