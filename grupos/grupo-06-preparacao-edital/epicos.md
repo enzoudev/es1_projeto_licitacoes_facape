@@ -2,8 +2,6 @@
 # Épicos — Grupo: Preparação Edital
 
 
-# Épicos - Grupo 06
-
 ## EP-01 - Formatação de Edital
 
 **Descrição:**
