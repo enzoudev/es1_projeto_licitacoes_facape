@@ -144,11 +144,11 @@ Estimativa: M | Prioridade: Alta | Épico: EP-01
 
 ## 📋 Checklist de Qualidade
 
-- [ ] Toda US tem ator, ação e valor claramente expressos
-- [ ] Critérios de aceite cobrem o caminho feliz e pelo menos um fluxo alternativo
-- [ ] Regras de negócio (RN-XX) estão referenciadas nas USs relevantes
-- [ ] Backlog priorizado distingue MVP de funcionalidades futuras
-- [ ] Estimativas de complexidade são relativas entre si (não absolutas)
+- [x] Toda US tem ator, ação e valor claramente expressos
+- [x] Critérios de aceite cobrem o caminho feliz e pelo menos um fluxo alternativo
+- [x] Regras de negócio (RN-XX) estão referenciadas nas USs relevantes
+- [x] Backlog priorizado distingue MVP de funcionalidades futuras
+- [x] Estimativas de complexidade são relativas entre si (não absolutas)
 
 ---
 
