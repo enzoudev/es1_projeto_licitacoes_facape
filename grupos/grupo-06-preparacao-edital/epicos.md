@@ -29,7 +29,7 @@ Assegurar que todos os documentos necessários acompanhem o edital.
 ## EP-03 - Validação de Completude
 
 **Descrição:**
-Verificar automaticamente se o edital possui todos os campos e anexos obrigatórios antes do envio.
+Verificar automaticamente se o edital tem todos os campos e anexos obrigatórios antes do envio.
 
 **Objetivo:**
 Evitar erros e rejeições causados por documentação incompleta.
