@@ -167,7 +167,7 @@ grupo-06-backlog/
 ## ✏️ Seção de Entrega (preencher pelo grupo)
 
 **Integrantes:**
-- ...
+- Enzo Gabriel Lima Nunes, Victor Emmanuel Silva Ramos, João Victor da Silva Costa Vasconcelos, Gustavo de Souza Mendonça, Juliardo Mateus Brito de Sá Junior.
 
 **Decisões tomadas:**
 > ...
