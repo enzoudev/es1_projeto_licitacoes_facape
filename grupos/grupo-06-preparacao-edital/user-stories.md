@@ -154,7 +154,11 @@ Critérios de Aceite:
 Cenário 1: Consulta de histórico com dados
   Dado que houveram alterações ou envios de editais pelo módulo
   Quando acesso o painel de histórico de auditoria
+<<<<<<< HEAD
   Então o sistema exibe em ordem cronológica o usuário responsável, ação realizada (geração, validação, envio), data, horário, versão do edital e o código de protocolo/confirmação de recebimento
+=======
+  Então o sistema exibe em ordem cronológica o usuário responsável, ação realizada (geração, validação, envio), data, horário, versão do edital e o código de protocolo/confirmação de recebimento.
+>>>>>>> e65149434e40ecbf5cf8ae6f2992a67b7132243d
 
 Cenário 2: Sem registros no histórico
   Dado que o módulo foi iniciado recentemente e nenhuma ação de alteração ou envio ocorreu

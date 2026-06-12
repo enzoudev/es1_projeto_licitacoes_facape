@@ -44,3 +44,7 @@ Para que qualquer história de usuário seja dada como concluída, ela deve cump
 - [ ] Interface visual aderente aos padrões de acessibilidade e design do sistema.
 - [ ] Logs estruturados implementados e mapeados para integração com o módulo G09 (Auditoria).
 - [ ] Documentação de API / Contrato de Integração atualizada na pasta docs (se aplicável).
+<<<<<<< HEAD
+=======
+.
+>>>>>>> e65149434e40ecbf5cf8ae6f2992a67b7132243d
